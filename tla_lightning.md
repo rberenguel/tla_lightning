@@ -659,3 +659,7 @@ Liveness == <>Triggered
 [^TVC]: This is a video course by Lamport, total of around 4 hours
 
 [^LTHW]: An online book by Hillel Wayne covering parts of _Practical TLA+_
+
+---
+
+# EOF
