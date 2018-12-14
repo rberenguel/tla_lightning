@@ -11,4 +11,4 @@ Sadly the PDF does not show animated gifs or videos, you can either check what t
 This presentation is formatted in Markdown and prepared to be used with
 [Deckset](https://www.decksetapp.com/). The drawings were done on an iPad Pro
 using [Procreate](https://procreate.art). **Here only the final PDF and the
-source Markdown is available **. Sadly animated gifs and video are just static images in the PDF.
+source Markdown is available**. Sadly animated gifs and video are just static images in the PDF.
