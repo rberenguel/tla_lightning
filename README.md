@@ -1,4 +1,4 @@
-# Formally Verifying __Complex Systems__ Using $$TLA^+$$
+# Formally Verifying __Complex Systems__ Using TLA+
 
 Lightning talk I ([@berenguel](https://twitter.com/berenguel)) gave at Scala Exchange on December 2018 to give a quick overview of TLA+ and PlusCal and how they can be used to model systems we use as Scala developers.
 
