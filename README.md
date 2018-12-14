@@ -2,9 +2,9 @@
 
 Lightning talk I ([@berenguel](https://twitter.com/berenguel)) gave at Scala Exchange on December 2018 to give a quick overview of TLA+ and PlusCal and how they can be used to model systems we use as Scala developers.
 
-You can find the slides [here](https://github.com/rberenguel/tla_lightning/raw/master/tla_lightning.pdf). I recommend you check the version with presenter notes [here](https://github.com/rberenguel/tla_lightning/raw/master/tla_lightning_with_presenter_notes.pdf). You can watch the live recording [here](https://skillsmatter.com/conferences/10488-scala-exchange-2018#skillscasts) when available.
+You can find the slides [here](https://github.com/rberenguel/tla_lightning/raw/master/tla_lightning.pdf). I recommend you check the version with presenter notes [here](https://github.com/rberenguel/tla_lightning/raw/master/tla_lightning_with_presenter_notes.pdf). You can watch the live recording [here](https://skillsmatter.com/skillscasts/13265-lightning-talk-formally-verifying-complex-systems-using-tla).
 
-Sadly the PDF does not show animated gifs or videos, you can either check what they are in the images folder ??? or watch the video.
+Sadly the PDF does not show animated gifs or videos, you can either check what they are in the [images](https://github.com/rberenguel/tla_lightning/raw/master/images/) folder  or watch the video.
 
 ---
 
