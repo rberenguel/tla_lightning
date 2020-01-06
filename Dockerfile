@@ -7,7 +7,6 @@ ARG NB_UID=1000
 ENV NB_USER ${NB_USER}
 ENV NB_UID ${NB_UID}
 RUN addgroup ${NB_USER} && adduser -D -G ${NB_USER} -u ${NB_UID} ${NB_USER}
-COPY ./examples /home/${NB_USER}
 RUN chown -R ${NB_USER} /home/${NB_USER}
 
 RUN pip3 install tlaplus_jupyter
